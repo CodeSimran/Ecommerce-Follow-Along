@@ -1,4 +1,4 @@
-<!-- # Ecommerce-Follow-Along
+# Ecommerce-Follow-Along
 Project Title : Ecommerce Website 
 Welcome to the first milestone E-Commerce Application Project
 Using Mern stack we are going to do this e-commerce application
@@ -32,4 +32,4 @@ Benefits of E-Commerce:
 Convenience: Open 24/7 for shopping.
 Global Reach: Attract customers worldwide.
 Personalization: Tailor recommendations based on user behavior.
-Cost-Efficiency: Lower operational costs compared to physical stores. -->
+Cost-Efficiency: Lower operational costs compared to physical stores.
